@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body {
+    background-color: #5DB0DE;
+}
+h1 {
+    color: yellow;
+    font-family:'Roboto', Helvetica, sans-serif;
+    font-size: 3em;
+    font-weight: bold 700;
+    text-align: center;
+    background-color: #72a5f5;
+    padding-bottom: 7px;
+}
+h3 {
+    color: yellow;
+}
+h3#borda {
+    padding-top: 10px;
+    box-shadow: -3px -1px 0.5px #156f96;
+}
+div#logo {
+    text-align: center;
+    background-color: #72a5f5;
+    padding-top: 10px;
+}
+div#senha_esquecida {
+    font-weight: bold;
+    text-align: left;
+    margin-left: 5px;
+}
+a#senha_esquecida2 {
+    text-decoration: none;
+}
+#senha_esquecida2:hover {
+    color: yellow;
+    text-decoration: underline;
+}
+.cadastro {
+    text-align: center;
+    margin-top: 50px;
+}
+a#cadastro {
+    color: yellow;
+    text-decoration: none;
+}
+a#cadastro:hover {
+    text-decoration: underline;
+}
+.form-floating {
+    margin: 50px auto 50px auto;
+    color: var(--cor2);
+    height: 20px;
+    width: 400px;
+    font-weight: lighter;
+}
+.logo{
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 5px;  
+}
+.cadastro2 {
+    margin: 7px;
+}
+input#botao-entrar {
+    width: 400px;
+    margin-top: 5px;
+    border-radius: 5px;
+    background-color: #72a5f5;
+}

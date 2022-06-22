@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+header {
+    background-color: #72a5f5;
+    padding: 20px;
+    margin-top: -10px;
+}
+div#settings{
+    margin: -10px;
+    text-align: right;
+}
+h1 {
+    color: yellow;
+    font-family:'Roboto', Helvetica, sans-serif;
+    font-size: 3.5em;
+    font-weight: bold;
+    text-align: center;
+
+}
+body {
+    background-color: #5DB0DE;
+}
+div#caixa1
+{
+    text-align:center;
+    margin: 30px;
+}
+.caixa2 {
+    display: inline-block;
+    background-color: #72a5f5;
+    padding:52px 20px 5px 20px;
+    margin-bottom: 30px;
+    border-style:outset;
+    border-width: 1px;
+    border-color: #156f96;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px black;
+    width: 70px;
+}
+.caixa2:hover {
+    background-color: #156f96;
+}
+.caixa3{
+    display: inline;
+    padding: 30px;
+}
+a {
+    color: yellow;
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
